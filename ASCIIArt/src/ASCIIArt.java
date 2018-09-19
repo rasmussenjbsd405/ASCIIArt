@@ -14,8 +14,17 @@
  *
  */
 
+// YOU CODE HERE :) 
+
 public class ASCIIArt {
 	public static void main (String [] args) {
+		System.out.println("THIS IS MY ASCII ART!!!!");
+		System.out.println("THIS IS MY ASCII ART!!!!");
+		System.out.println("THIS IS MY ASCII ART!!!!");
+		System.out.println("THIS IS MY ASCII ART!!!!");
+		System.out.println("THIS IS MY ASCII ART!!!!");
+		System.out.println("THIS IS MY ASCII ART!!!!");
+		System.out.println("THIS IS MY ASCII ART!!!!");
 		System.out.println("THIS IS MY ASCII ART!!!!");
 	}
 }
