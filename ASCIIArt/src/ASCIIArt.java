@@ -23,8 +23,5 @@ public class ASCIIArt {
 		System.out.println("THIS IS MY ASCII ART!!!!");
 		System.out.println("THIS IS MY ASCII ART!!!!");
 		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
 	}
 }
